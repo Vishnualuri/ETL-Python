@@ -1,0 +1,13 @@
+Notes for project part 1:
+-	Load the content of the CSV files(Stockvaluations & MLB2008) into usable records
+-	Use polymorphism to hold data
+-	Use inheritance to process data
+
+project part 2:
+-	Save data in a database
+-	Read data from a database
+-	classes form part 1 are imported(i.e as StockOperations.py)
+- 	Files are saved in DB folder
+
+project part3:
+-	Create a producer consumer based Transform(Implementing Multi threading)
